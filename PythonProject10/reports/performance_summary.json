@@ -1,0 +1,20 @@
+{
+    "mnist_only": {
+        "accuracy": 0.9891,
+        "precision": 0.9891630778599101,
+        "recall": 0.9891,
+        "f1_score": 0.9890876768835224
+    },
+    "school_only": {
+        "accuracy": 0.1,
+        "precision": 0.01,
+        "recall": 0.1,
+        "f1_score": 0.01818181818181818
+    },
+    "combined": {
+        "accuracy": 0.9873126873126873,
+        "precision": 0.987431671537681,
+        "recall": 0.9873126873126873,
+        "f1_score": 0.9873248894169652
+    }
+}
